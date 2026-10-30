@@ -56,3 +56,8 @@ To apply machine learning classification techniques to customer retention and un
 
 - GitHub: https://github.com/tankirat16singh
 - LinkedIn: https://linkedin.com/in/tankirat-singh
+- ## Live Demo
+
+Try the deployed application:
+
+https://customer-churn-prediction-zhv4apd4vlhrnbyeptvolv.streamlit.app/
